@@ -3,7 +3,7 @@ entries:
   demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-05T20:40:15.034327+05:30"
+    created: "2024-03-05T20:42:07.918976+05:30"
     description: A Helm chart for Kubernetes
     digest: 1c90637d10731a8b1a1d25f354345abc8af45c0d026c521cc62da79de2468f5a
     name: demo
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://mouliveera.github.io/demo-repo/demo-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-05T20:40:15.032255+05:30"
+generated: "2024-03-05T20:42:07.917554+05:30"
